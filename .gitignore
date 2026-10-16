@@ -1,0 +1,13 @@
+# Generated artifacts
+node_modules/
+dist/
+
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+subly-app-api.md
+subly-mcp-connection.txt
+*.log
+*.pem
+*.key
